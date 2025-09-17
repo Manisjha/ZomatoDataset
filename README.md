@@ -1,6 +1,3 @@
-Absolutely, Manish. Here's a detailed and professional README for your GitHub repository based on the Zomato EDA project inspired by Krish Naik’s live session:
-
----
 
 # 🍽️ Zomato Dataset – Exploratory Data Analysis & Feature Engineering
 
@@ -83,4 +80,3 @@ This project is inspired by [Krish Naik’s Live EDA Series](https://www.youtube
 
 ---
 
-Let me know if you'd like to add badges, a license, or deployment instructions. We can make this README even more polished!
